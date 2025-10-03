@@ -10,11 +10,11 @@
 
 **[Remark Deflist Revisited][module]** is a **[Remark]** plugin. A wrapper around **`remark-deflist`** with improved support for nested definition lists. It preserves all the original functionality and performs additional processing. 
 
-## 📄 Overview
+## Overview
 
 This project provides an Astro integration example showcasing how to use **`remark-deflist-revisited`** in modern static site generation and server-side rendering environments. **[Express.js]**, **[Cloudflare Worker]** and **[Simple]** examples are also available.
 
-## ✨ Features
+## Features
 
 - **Astro Integration** → Seamless integration with Astro's markdown pipeline
 - **Enhanced Definition Lists** → Support for complex nested structures
@@ -23,7 +23,7 @@ This project provides an Astro integration example showcasing how to use **`rema
 - **Zero Config** → Easy setup with minimal configuration
 - **TypeScript Ready** → Full TypeScript support
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -80,7 +80,7 @@ Nested Term
 : Secondary definition with **bold text**
 ```
 
-## 💻 Advanced Usage
+## Advanced Usage
 
 ### Custom Markdown Processing
 
@@ -123,7 +123,7 @@ const htmlContent = await processMarkdown(markdownContent);
 <div set:html={htmlContent} />
 ```
 
-## 🛠️ Development
+## Development
 
 ### Local Development
 
@@ -187,17 +187,17 @@ declare module "@verikami/remark-deflist-revisited" {
 }
 ```
 
-## 🎯 Comparison with Other Implementations
+## Comparison with Other Implementations
 
-| Feature | Astro Integration | Express.js | Cloudflare Worker |
-|---------|-------------------|------------|-------------------|
-| **Rendering** | SSG/SSR | Server-side | Edge |
-| **Build Time** | Pre-built at deploy | Runtime | Runtime |
-| **Performance** | Excellent (static) | Good | Excellent (edge) |
-| **Complexity** | Low | Medium | Low |
-| **Use Case** | Documentation sites | Dynamic apps | API endpoints |
+| Feature         | Express.js   | Astro Integration   | Cloudflare Worker |
+|-----------------|--------------|---------------------|-------------------|
+| **Rendering**   | Server-side  | SSG/SSR             | Edge              |
+| **Build Time**  | Runtime      | Pre-built at deploy | Runtime           |
+| **Performance** | Good         | Excellent (static)  | Excellent (edge)  |
+| **Complexity**  | Medium       | Low                 | Low               |
+| **Use Case**    | Dynamic apps | Documentation sites | API endpoints     |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -214,7 +214,7 @@ declare module "@verikami/remark-deflist-revisited" {
 └── README.md                # This file
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 ### Core Dependencies
 
@@ -227,7 +227,7 @@ declare module "@verikami/remark-deflist-revisited" {
 - `@astrojs/react` → React component support
 - `@astrojs/vue` → Vue component support
 
-## 🌟 Benefits for Astro Projects
+## Benefits for Astro Projects
 
 - **Performance**: Leverages Astro's island architecture
 - **SEO Friendly**: Pre-rendered content for better search visibility
@@ -235,9 +235,9 @@ declare module "@verikami/remark-deflist-revisited" {
 - **Flexibility**: Combine with React, Vue, Svelte components
 - **Zero JS**: Outputs minimal JavaScript by default
 
-## 📄 License
+## License
 
-This project is Open Source and available under the MIT License.  
+This project is Open Source and available under the MIT License  
 2025 © MIT °// [veriKami] °// [Weronika Kami]
 
 [veriKami]: https://verikami.com
