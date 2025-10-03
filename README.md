@@ -1,4 +1,4 @@
-# Remark Deflist Revisited °// Astro Integration
+# Remark Deflist Revisited °// Astro Example
 
 [![GH][GH Badge]][GH]
 [![NPM][NPM Badge]][NPM]
@@ -12,7 +12,7 @@
 
 ## Overview
 
-This project provides an Astro integration example showcasing how to use **`remark-deflist-revisited`** in modern static site generation and server-side rendering environments. **[Express.js]**, **[Cloudflare Worker]** and **[Simple]** examples are also available.
+This project provides an Astro integration example showcasing how to use **`remark-deflist-revisited`** in modern static site generation and server-side rendering environments. **[Simple]**, **[Express.js]** and **[Cloudflare Worker]** examples are also available.
 
 ## Features
 
