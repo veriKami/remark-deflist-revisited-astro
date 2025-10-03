@@ -12,7 +12,7 @@
 
 ## Overview
 
-This project provides an Astro integration example showcasing how to use **`remark-deflist-revisited`** in modern static site generation and server-side rendering environments. **[Simple]**, **[Express.js]** and **[Cloudflare Worker]** examples are also available.
+This project provides an Astro integration example showcasing how to use **`remark-deflist-revisited`** in modern static site generation and server-side rendering environments. **[Simple][+:simple]**, **[Express.js][+:express]** and **[Cloudflare Worker][+:worker]** examples are also available.
 
 ## Features
 
@@ -244,24 +244,25 @@ This project is Open Source and available under the MIT License
 [Weronika Kami]: https://linkedin.com/in/verikami
 
 [module]: https://github.com/veriKami/remark-deflist-revisited
-[Simple]: https://github.com/veriKami/remark-deflist-revisited-simple
-[Express.js]: https://github.com/veriKami/remark-deflist-revisited-express
-[Cloudflare Worker]: https://github.com/veriKami/remark-deflist-revisited-worker
-
-[GH]: https://github.com/veriKami/remark-deflist-revisited
-[GH Badge]: https://img.shields.io/badge/GitHub-Repository-blue?logo=github
+[+:simple]: https://github.com/veriKami/remark-deflist-revisited-simple
+[+:express]: https://github.com/veriKami/remark-deflist-revisited-express
+[+:worker]: https://github.com/veriKami/remark-deflist-revisited-worker
+[+:astro]: https://github.com/veriKami/remark-deflist-revisited-astro
 
 [Remark]: https://remark.js.org
 [Astro]: https://astro.build
 
-[NPM]: https://www.npmjs.com/package/@verikami/remark-deflist-revisited
+[GH Badge]: https://img.shields.io/badge/GitHub-Repository-blue?logo=github
+[GH]: https://github.com/veriKami/remark-deflist-revisited
+
 [NPM Badge]: https://img.shields.io/npm/v/@verikami/remark-deflist-revisited?logo=npm&logoColor=white&labelColor=red&color=black
+[NPM]: https://www.npmjs.com/package/@verikami/remark-deflist-revisited
 
-[JSR]: https://jsr.io/@verikami/remark-deflist-revisited
 [JSR Badge]: https://jsr.io/badges/@verikami/remark-deflist-revisited
+[JSR]: https://jsr.io/@verikami/remark-deflist-revisited
 
-[Downloads]: https://www.npmjs.com/package/@verikami/remark-deflist-revisited
 [Downloads Badge]: https://img.shields.io/npm/dm/@verikami/remark-deflist-revisited.svg
+[Downloads]: https://www.npmjs.com/package/@verikami/remark-deflist-revisited
 
-[Socket]: https://socket.dev/npm/package/@verikami/remark-deflist-revisited
 [Socket Badge]: https://badge.socket.dev/npm/package/@verikami/remark-deflist-revisited
+[Socket]: https://socket.dev/npm/package/@verikami/remark-deflist-revisited
